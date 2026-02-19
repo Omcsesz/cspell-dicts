@@ -1,5 +1,22 @@
 # Change Log
 
+## [2.1.13](https://github.com/Omcsesz/cspell-dicts/compare/@cspell/dict-en-common-misspellings@2.1.12...@cspell/dict-en-common-misspellings@2.1.13) (2026-02-19)
+
+
+### Updates and Bug Fixes
+
+* Add 'therefor' as a common misspelling of therefore. ([#5184](https://github.com/Omcsesz/cspell-dicts/issues/5184)) ([872b145](https://github.com/Omcsesz/cspell-dicts/commit/872b145c40e401b1a84d237607b39ecb808f7a37))
+* Add coding terms ([#4891](https://github.com/Omcsesz/cspell-dicts/issues/4891)) ([9048f5f](https://github.com/Omcsesz/cspell-dicts/commit/9048f5f4d1bf49cea20b0521534e51145a097d83))
+* Add misspelling suggestion for `remnat->remnant` ([#4767](https://github.com/Omcsesz/cspell-dicts/issues/4767)) ([4f8de9c](https://github.com/Omcsesz/cspell-dicts/commit/4f8de9cecb1333c9d0426449e7ecad782be88c31))
+* Add more terms to software/company dictionaries ([#5093](https://github.com/Omcsesz/cspell-dicts/issues/5093)) ([35393f9](https://github.com/Omcsesz/cspell-dicts/commit/35393f921cbf7ee47bb8a027697211c61a76fa1c))
+* Add software terms ([#4893](https://github.com/Omcsesz/cspell-dicts/issues/4893)) ([fa94b2e](https://github.com/Omcsesz/cspell-dicts/commit/fa94b2ed72fcae3a7e4194915a752b271a0c31fc))
+* Add timestep ([#5031](https://github.com/Omcsesz/cspell-dicts/issues/5031)) ([cffc7f4](https://github.com/Omcsesz/cspell-dicts/commit/cffc7f42ff468bb49a571f3ee17735f55e4507ca))
+* Encorporate more sw dev terms ([#5116](https://github.com/Omcsesz/cspell-dicts/issues/5116)) ([2a080b7](https://github.com/Omcsesz/cspell-dicts/commit/2a080b78f1cc164d75a897d89d4416fc84138b46))
+* Improve install documentation ([#4640](https://github.com/Omcsesz/cspell-dicts/issues/4640)) ([ce83729](https://github.com/Omcsesz/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Remove `typw` from the English dictionary ([#4774](https://github.com/Omcsesz/cspell-dicts/issues/4774)) ([b57f9a2](https://github.com/Omcsesz/cspell-dicts/commit/b57f9a2db71043ffa16f7c895fa8b82f39f5bb78))
+* Workflow Bot -- Build Dictionaries ([#4790](https://github.com/Omcsesz/cspell-dicts/issues/4790)) ([3864e50](https://github.com/Omcsesz/cspell-dicts/commit/3864e508eac5c7fbb3124b54d8acd28985a234af))
+* Workflow Bot -- Build Dictionaries ([#4926](https://github.com/Omcsesz/cspell-dicts/issues/4926)) ([f8ded5e](https://github.com/Omcsesz/cspell-dicts/commit/f8ded5ee85937e215022ef392af8266f9c6adc03))
+
 ## [2.1.12](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-common-misspellings@2.1.11...@cspell/dict-en-common-misspellings@2.1.12) (2026-01-26)
 
 

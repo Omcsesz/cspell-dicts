@@ -1,5 +1,19 @@
 # Change Log
 
+## [1.2.0](https://github.com/Omcsesz/cspell-dicts/compare/@cspell/dict-hy@1.1.0...@cspell/dict-hy@1.2.0) (2026-02-19)
+
+
+### Features
+
+* add HySpell (Nayiri) Armenian dictionary as upstream source ([#5232](https://github.com/Omcsesz/cspell-dicts/issues/5232)) ([9a6c2d5](https://github.com/Omcsesz/cspell-dicts/commit/9a6c2d525bef215e63d9ec96e4e8c6a75dc8b4e4))
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/Omcsesz/cspell-dicts/issues/4640)) ([ce83729](https://github.com/Omcsesz/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Update README.md ([#4660](https://github.com/Omcsesz/cspell-dicts/issues/4660)) ([e0f9c43](https://github.com/Omcsesz/cspell-dicts/commit/e0f9c43f2dc0170a118dfe3a5008d3cf017e36ce))
+* Workflow Bot -- Build Dictionaries ([#5236](https://github.com/Omcsesz/cspell-dicts/issues/5236)) ([0edbc2e](https://github.com/Omcsesz/cspell-dicts/commit/0edbc2e38623d9a42f7375bacc5e3371fed54bca))
+
 ## [1.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-hy@1.0.3...@cspell/dict-hy@1.1.0) (2026-02-08)
 
 

@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.1.8](https://github.com/Omcsesz/cspell-dicts/compare/@cspell/dict-ar@1.1.7...@cspell/dict-ar@1.1.8) (2026-02-19)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/Omcsesz/cspell-dicts/issues/4640)) ([ce83729](https://github.com/Omcsesz/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Update README.md ([#4660](https://github.com/Omcsesz/cspell-dicts/issues/4660)) ([e0f9c43](https://github.com/Omcsesz/cspell-dicts/commit/e0f9c43f2dc0170a118dfe3a5008d3cf017e36ce))
+* Workflow Bot -- Build Dictionaries ([#5190](https://github.com/Omcsesz/cspell-dicts/issues/5190)) ([1b68196](https://github.com/Omcsesz/cspell-dicts/commit/1b68196762a769f95403de3e7b12f43bbb8cf3b8))
+
 ## [1.1.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-ar@1.1.6...@cspell/dict-ar@1.1.7) (2026-02-01)
 
 
