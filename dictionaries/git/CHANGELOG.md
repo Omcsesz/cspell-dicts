@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.0](https://github.com/Omcsesz/cspell-dicts/compare/@cspell/dict-git@3.1.0...@cspell/dict-git@3.2.0) (2026-02-19)
+
+
+### Features
+
+* support git terms in shell script files ([#5166](https://github.com/Omcsesz/cspell-dicts/issues/5166)) ([5106185](https://github.com/Omcsesz/cspell-dicts/commit/51061857fe56181a714cd8c389b3508d6e6f4368))
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/Omcsesz/cspell-dicts/issues/4640)) ([ce83729](https://github.com/Omcsesz/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [3.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-git@3.0.7...@cspell/dict-git@3.1.0) (2026-01-24)
 
 
