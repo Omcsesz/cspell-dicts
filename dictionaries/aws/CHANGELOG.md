@@ -22,6 +22,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.18](https://github.com/Omcsesz/cspell-dicts/compare/@cspell/dict-aws@4.0.17...@cspell/dict-aws@4.0.18) (2026-02-19)
+
+
+### Updates and Bug Fixes
+
+* [aws] Add missing AWS related terms ([#4633](https://github.com/Omcsesz/cspell-dicts/issues/4633)) ([b9d0677](https://github.com/Omcsesz/cspell-dicts/commit/b9d0677ad0fe59aa81c79a049b74dcbd1df03744))
+* [aws] Add missing AWS related terms ([#4690](https://github.com/Omcsesz/cspell-dicts/issues/4690)) ([401f27e](https://github.com/Omcsesz/cspell-dicts/commit/401f27e7bba4536409fd3d4644c5fe3253ccc1ed))
+* [aws] Add missing AWS related terms ([#4962](https://github.com/Omcsesz/cspell-dicts/issues/4962)) ([36e2719](https://github.com/Omcsesz/cspell-dicts/commit/36e2719e045aa5180f40f3f5cf56e532d78d3597))
+* add "stepfunctions" to the AWS dictionary ([#4744](https://github.com/Omcsesz/cspell-dicts/issues/4744)) ([e225726](https://github.com/Omcsesz/cspell-dicts/commit/e225726602b5dbb8ed7aa4c0a27be238f434361b))
+* adds aws terms and fixes typos ([#5026](https://github.com/Omcsesz/cspell-dicts/issues/5026)) ([2c2730b](https://github.com/Omcsesz/cspell-dicts/commit/2c2730b9cd03ed797ae83002f44b6c45cbcea831))
+* Improve install documentation ([#4640](https://github.com/Omcsesz/cspell-dicts/issues/4640)) ([ce83729](https://github.com/Omcsesz/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [4.0.17](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-aws@4.0.16...@cspell/dict-aws@4.0.17) (2025-12-13)
 
 

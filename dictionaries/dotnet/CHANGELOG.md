@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.13](https://github.com/Omcsesz/cspell-dicts/compare/@cspell/dict-dotnet@5.0.12...@cspell/dict-dotnet@5.0.13) (2026-02-19)
+
+
+### Updates and Bug Fixes
+
+* Add postback to software-terms.txt ([#5251](https://github.com/Omcsesz/cspell-dicts/issues/5251)) ([faa0f5f](https://github.com/Omcsesz/cspell-dicts/commit/faa0f5f40233499f86c60984d424ae4a3aa3a00e))
+* Encorporate more sw dev terms ([#5116](https://github.com/Omcsesz/cspell-dicts/issues/5116)) ([2a080b7](https://github.com/Omcsesz/cspell-dicts/commit/2a080b78f1cc164d75a897d89d4416fc84138b46))
+* Improve install documentation ([#4640](https://github.com/Omcsesz/cspell-dicts/issues/4640)) ([ce83729](https://github.com/Omcsesz/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [5.0.12](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-dotnet@5.0.11...@cspell/dict-dotnet@5.0.12) (2026-02-12)
 
 
