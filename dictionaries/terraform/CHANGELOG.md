@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.1.4](https://github.com/Omcsesz/cspell-dicts/compare/@cspell/dict-terraform@1.1.3...@cspell/dict-terraform@1.1.4) (2026-02-19)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/Omcsesz/cspell-dicts/issues/4640)) ([ce83729](https://github.com/Omcsesz/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [1.1.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-terraform@1.1.2...@cspell/dict-terraform@1.1.3) (2025-07-09)
 
 

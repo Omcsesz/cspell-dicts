@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.4](https://github.com/Omcsesz/cspell-dicts/compare/@cspell/dict-typescript@3.2.3...@cspell/dict-typescript@3.2.4) (2026-02-19)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/Omcsesz/cspell-dicts/issues/4640)) ([ce83729](https://github.com/Omcsesz/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [3.2.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-typescript@3.2.2...@cspell/dict-typescript@3.2.3) (2025-07-09)
 
 

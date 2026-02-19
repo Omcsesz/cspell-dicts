@@ -22,6 +22,20 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.2.0](https://github.com/Omcsesz/cspell-dicts/compare/@cspell/dict-scientific-terms-us@3.1.0...@cspell/dict-scientific-terms-us@3.2.0) (2026-02-19)
+
+
+### Features
+
+* Add mathematics dictionary in the scientific terms ([#5215](https://github.com/Omcsesz/cspell-dicts/issues/5215)) ([ca34df7](https://github.com/Omcsesz/cspell-dicts/commit/ca34df7f23c2c59be2949c846d0a58bcdcd30a6e))
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/Omcsesz/cspell-dicts/issues/4640)) ([ce83729](https://github.com/Omcsesz/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* move generated files to `dict` dir ([#5219](https://github.com/Omcsesz/cspell-dicts/issues/5219)) ([393f472](https://github.com/Omcsesz/cspell-dicts/commit/393f472b97d66c0bec675b8e23e2376a9242b80e))
+* Update README.md ([#4660](https://github.com/Omcsesz/cspell-dicts/issues/4660)) ([e0f9c43](https://github.com/Omcsesz/cspell-dicts/commit/e0f9c43f2dc0170a118dfe3a5008d3cf017e36ce))
+
 ## [3.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-scientific-terms-us@3.0.8...@cspell/dict-scientific-terms-us@3.1.0) (2026-02-04)
 
 
